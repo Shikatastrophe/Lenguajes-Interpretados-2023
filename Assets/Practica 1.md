@@ -1,5 +1,5 @@
 # Shika Moriyama (yo)
-![img](Assets/IMG_20230225_184210315.jpg)
+![img](./IMG_20230225_184210315.jpg)
 ### Edad: 21 
 
 Hola prof, ya me conoce del semestre pasado :) 
