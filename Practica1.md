@@ -30,3 +30,5 @@ Soy Shika, tengo numerosas pasiones, entre ellas esta la programación y la mús
 |Twitter|[@Shika_Writes](https://twitter.com/shika_writes?t=odUkc2YXrN5ewIpZHQDotg&s=09)|
 |Mail|shikatastrophe@gmail.com|
 |Twitter Personal|[@Shikatastrophe](https://twitter.com/Shikatastrophe?t=jgOtOddc_y8TwwUDH9QnTg&s=09)|
+
+Bruh
