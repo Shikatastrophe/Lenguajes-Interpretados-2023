@@ -1,100 +1,34 @@
-Gaming, **Gaming fuerte**, *Gaming Estilizado*.
+# Shika Moriyama (yo)
+![img](Assets/IMG_20230225_184210315.jpg)
+### Edad: 21 
 
-***Sintaxis de marcado Markdown.***
+Hola prof, ya me conoce del semestre pasado :) 
 
-Hoy en dia este es el standard para escribir documentacion tecnica en el mundo del desarollo de *software*.
+Soy Shika, tengo numerosas pasiones, entre ellas esta la programación y la música, me encantan varios hobbies los cuales estarán escritos abajo, estudio en Amerike en la carrera de *Ingenieria de Desarrollo de Software Interactivo y Videojuegos*. Para un trabajo a futuro, espero conseguir una posición en Riot Games por un estimado de 10 años, y con lo ahorrado en ese tiempo, abrir un estudio independiente. 
 
-# Titulo
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+## Pasatiempos
 
-Este es un [enlace](https://www.google.com/)
+1. Escribir
+    - Me gusta crear historias y mundos fantasticos
+1. Musica
+    - Me gusta producir y escuchar todo tipo de musica, pues va de la mano con la creacion de videojuegos
+1. Programar
+    - Este se explica solo, pues ando estudiando en esto
+1. Psicologia
+    - Parte de tiene que ver con poder ayudar a mis amigos cuando se sienten mal
+1. Dibujar
+    - Me gusta poder plasmar mis ideas mas alla de solo ponerlo en ideas
+1. Criminologia
+    - Solia ser mi carrera ideal, me encanta la idea de poder resolver crimenes
+1. Cocinar
+    - Es una pasion practica que me permite probar y preparar cosas nuevas siempre
 
-![Esta aki una imagen](https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&quality=85&auto=format&fit=max&s=a52bbe202f57ac0f5ff7f47166906403)
+## Contacto
 
-![image](Assets/KojimaProductionsLogo.jpg)
+|Red|Handle|
+|-|-|
+|Twitter|[@Shika_Writes](https://twitter.com/shika_writes?t=odUkc2YXrN5ewIpZHQDotg&s=09)|
+|Mail|shikatastrophe@gmail.com|
+|Twitter Personal|[@Shikatastrophe](https://twitter.com/Shikatastrophe?t=jgOtOddc_y8TwwUDH9QnTg&s=09)|
 
----
-
-El Gaming
-
-## Listas
-
-### Listas desordenadas
-
-- Gaming
-- Gaming 2
-- Gaming 3
-
-### Listas ordenadas
-
-1. Verano
-2. Otoño
-2. Primavera
-4. Invierno
-
----
-
-### Sublistas desordenadas
-
-1. Verano
-    - Junio
-    - Julio
-    - Agosto
-2. Otoño
-    - Septiembre
-    - Octubre
-        - Juawulin
-    - Noviembre
-        - Dia d muertos
-2. Primavera
-    - Marzo
-    - Abril
-    - Mayo
-4. Invierno
-    - Diciembre
-    - Enero 
-    - Febrero
-
----
-
-Citas textuales
-
-> "El gaming" - Yo
-
-> "El gaming" 
->
-> -Yo
-
----
-Tablas
-
-| Pais | Siudad | Continente |
-| - | - | - |
-| Mejico | CDMX | America |
-| Japon | Tokyo | Asia |
-| Fransia | Paris | Europa |
-
----
-Codigo 
-
-```js
-function sumar(a,b){
-    return a + b
-}
-```
-
-```c#
-static int Gaming(gam){
-    int gam2 = gam + 1;
-    return gam2;
-}
-```
-
----
-
-<Input type="text"/>
-<input type="button" value="Submit"/>
+Bruh
